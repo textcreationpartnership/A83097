@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for giving power to all the classicall presbyteries within their respective bounds to examine, approve, and ordaine ministers for severall congregations. Die Lunæ 10. Novemb. 1645. Ordered by the Lords assembled in Parliament, that this ordinance for ordination of ministers be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <title>Proceedings. 1644-11-10</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83097</idno>
+            <idno type="STC">Wing E1894B</idno>
+            <idno type="STC">ESTC R212821</idno>
+            <idno type="EEBO-CITATION">99897393</idno>
+            <idno type="PROQUEST">99897393</idno>
+            <idno type="VID">132771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132771)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for giving power to all the classicall presbyteries within their respective bounds to examine, approve, and ordaine ministers for severall congregations. Die Lunæ 10. Novemb. 1645. Ordered by the Lords assembled in Parliament, that this ordinance for ordination of ministers be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <title>Proceedings. 1644-11-10</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ordination --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132771:1"/>
+            <!-- PDF PAGE 120 -->
+            <p>An ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT For giving power to all the Claſſicall Presbyteries Within their reſpective Bounds to Examine, Approve, and Ordaine Miniſters for ſeverall Congregations.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <head>
+                           <hi>Die Lunae</hi> 10. <hi>Novemb.</hi> 1645.</head>
+                        <p>ORdered by the Lords Aſſembled in Parliament, That this Ordinance for Ordination of Miniſters be forthwith prin<g ref="char:EOLhyphen"/>ted and publiſhed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed for <hi>Iohn Wright</hi> at the Kings Head in the old Bayley. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:132771:2"/>
+            <!-- PDF PAGE 121 -->
+            <pb n="1" facs="tcp:132771:2"/>
+            <!-- PDF PAGE 121 -->
+            <head>
+               <hi>Die Sabbathi</hi> 8 <hi>Novemb.</hi> 1644. An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, <hi>For the Ordination of Miniſters.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the word <hi>Presbyter,</hi> that is to ſay, <hi>El<g ref="char:EOLhyphen"/>der,</hi> and the word <hi>Biſhop,</hi> do in the Scrip<g ref="char:EOLhyphen"/>ture intend and ſignifie one and the ſame Function, although the Title of Biſhop hath been by corrupt cuſtome appropria<g ref="char:EOLhyphen"/>ted to one, and that unto him aſcribed, and by him aſſumed, as in other things, ſo in the matter of Ordination, that was not meet; which Ordination notwithſtand<g ref="char:EOLhyphen"/>ing being performed by him, a Presbyter joyned with other Preſ<g ref="char:EOLhyphen"/>byters, we hold for ſubſtance to be valid and not to be diſclaimed by any that have received it; and that Presbyters ſo ordained; be<g ref="char:EOLhyphen"/>ing lawfully thereunto appointed and authorized, may ordaine other Presbyters: And whereas it is alſo manifeſt by the Word of God, that no man ought to take upon him the Office of a Miniſter, untill he be lawfully called and ordained thereunto; and that the work of Ordination, that is to ſay, an outward ſolemne ſetting a part of perſons for the Office of the Miniſtery in the Church by preaching Presbyters, is an Ordinance of Chriſt, and is to be per<g ref="char:EOLhyphen"/>formed with all due care, wiſdom, gravity, and ſolemnity. It is Or<g ref="char:EOLhyphen"/>dained by the Lords and Commons aſſembled in Parliament, and by the authority of the ſame, (after advice had with the Aſſembly of Divines now convened at <hi>Weſtminſter,</hi>) That the ſeverall and re<g ref="char:EOLhyphen"/>ſpective Claſſicall Presbyters which in their ſeverall and reſpective bounds, may examine, approve and ordaine Presbyters, according
+<pb n="2" facs="tcp:132771:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 122 -->to the Directory for Ordination, and Rules for Examination, here<g ref="char:EOLhyphen"/>after expreſſed, that is to ſay; Firſt,</p>
+            <p n="1">
+               <hi>Firſt,</hi> That he that is to be ordained, muſt addreſſe himſelf to the Presbytery, and bring with him a teſtimon<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll of his taking the Covenant of the three Kingdomes; of his diligence and profici<g ref="char:EOLhyphen"/>ency in his Studies; what Degrees he hath taken in the Univerſity, and what hath been the time of his abode there, and withall of his age, which is to be twenty foure yeares at leaſt; but eſpecially of his life and converſation.</p>
+            <p n="2">
+               <hi>Secondly,</hi> the Presbytery ſhall proceed to enquire touching the grace of God in him, and whether he be of ſuch holineſſe of life as is requiſite in a Miniſter of the Goſpell, and to examine him touching his learning and ſufficiency, and touching the evidence of his calling to the holy Miniſtery, and in particular, his fair and direct calling to that place to which he is deſigned.</p>
+            <list>
+               <head>The Rules for Examination are theſe.</head>
+               <item>1 <hi>THat the party examined be deall with in a brotherly way, with mildneſſe of ſpirit, and with ſpeciall reſpect to the gravity, modeſty, and quality of every one.</hi>
+               </item>
+               <item>2 <hi>He ſhall be examined touching his skill in the Originall Tongues; and that tryall to be made by reading the Hebrew and Greek Teſtament, and rendring ſome portions of them in<g ref="char:EOLhyphen"/>to Latine; and inquiry alſo ſhall be made after his other lear<g ref="char:EOLhyphen"/>ning, and whether he hath skill in Logick and Philoſophy.</hi>
+               </item>
+               <item>3 <hi>What Authors in Divinity he hath read and is beſt ac<g ref="char:EOLhyphen"/>quainted with; and triall ſhall be made of his knowledge in the chief grounds of Religion, and of his ability to defend the Orthodox Doctrine contained in them, againſt all unſound and Erronious opinions, eſpecially thoſe of the preſent age; of his skill in the ſenſe and meaning of ſuch places of Scripture, as ſhall be propoſed unto him in caſes of Conſcience, and in the Chronologie of Scripture, and of the Eccleſiaſticall Hiſtory.</hi>
+               </item>
+               <pb n="3" facs="tcp:132771:3"/>
+               <!-- PDF PAGE 122 -->
+               <item>4 <hi>If he hath not before preached in publike, with approba<g ref="char:EOLhyphen"/>tion of ſuch as are able to judge; he ſhall at a competent time aſſigned him, and before the Presbytery, expound ſuch a place of Scripture as ſhall be given him.</hi>
+               </item>
+               <item>5 <hi>He ſhall in a competent time alſo frame a diſcourſe in La<g ref="char:EOLhyphen"/>tine, upon ſuch a common place or controverſie in Divinity, as ſhall be aſſigned him, &amp; exhibit to the Presbytery ſuch Theſes as expreſſe the ſum thereof, and maintain a diſpute upon them</hi>
+               </item>
+               <item>6 <hi>He ſhall preach before the people, the Presbytery, or ſome of the Miniſters of the Word, appointed by them, being preſent.</hi>
+               </item>
+               <item>7 <hi>The proportion of his gifts in relation to the place unto which he is called, ſhall be conſidered.</hi>
+               </item>
+               <item>8 <hi>Beſides the tryall of his gifts in preaching, he ſhall un<g ref="char:EOLhyphen"/>dergoe an examination in the Premiſſes two ſeverall daies or more, if the Presbytery ſhall judge it neceſſary.</hi>
+               </item>
+            </list>
+            <p n="3">
+               <hi>Thirdly,</hi> After which, he being approved, is to be ſent to the Church or other place where he is to ſerve, (if it may be done with ſafety and conveniency,) there to preach three ſeverall daies, and to converſe with the people, that they may have tryall of his gifts for their edification, and may have time and leaſure to in<g ref="char:EOLhyphen"/>quire into, and the better to know his life and converſation.</p>
+            <p n="4">
+               <hi>Fourthly,</hi> In the laſt of thoſe three daies appointed for the ma<g ref="char:EOLhyphen"/>king known of his gifts in preaching, there ſhall be ſent from the Presbytery to the Congregation, (if it may be done with ſafety and conveniency,) a publique inſtrument in writing, which ſhall publikely be read before the people, &amp; after affixed to the Church door, to ſignifie ſuch a day any member or members of the ſaid Congregation, or any other perſon or perſons whatſoever, or any of them, may put in with all Chriſtian diſcretion and meekneſſe, what exceptions they have againſt him; and if upon the day ap<g ref="char:EOLhyphen"/>pointed there be no juſt exceptions againſt him, the Presbytery ſhall proceed to Ordination.</p>
+            <p n="5">
+               <hi>Fifthly,</hi> Upon the day appointed for Ordination (which is to be performed in that Church where he that is to be ordained is to ſerve, (if it may be done with ſafety and conveniency,) a ſolemn Faſt ſhall be kept by the Congregation, that they may more
+<pb n="4" facs="tcp:132771:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 123 -->earneſtly joyn in prayer to God for a bleſſing upon the perſon and labour of this his ſervant, ſolemnly to be ſet apart to the Office of the Miniſtery for their good; the Presbytery ſhall come to the place, or ſome Miniſters of the Word, at the leaſt ſhall be ſent from the Presbytery, whereof one ſhall Preach to the people con<g ref="char:EOLhyphen"/>cerning the office and duty of the Miniſters of Chriſt, and how the people ought to eſteem him for the works ſake.</p>
+            <p n="6">
+               <hi>Sixthly,</hi> After the Sermon ended, the Miniſter which hath prea<g ref="char:EOLhyphen"/>ched ſhall in the face of the Congregation, demand of him who is now to be ordained, concerning his faith in Chriſt Jeſus, &amp; his perſwaſion of the truth of the reformed Religion, according to the Scriptures; his ſincere intentions and ends in deſiring to enter into this calling, his reſolution to be diligent in Prayer, reading, meditation, preaching, miniſtring the Sacraments, and doing all miniſteriall duties towards his charge; his zeal and faithfulnes in maintaining the truth of the Goſpell, and purity of the Church, againſt Error and Schiſme; his care that himſelf and family may be unblameable, and examples to the Flock; and his reſolution to continue in his duty, againſt all trouble and perſecution.</p>
+            <p n="7">
+               <hi>Seventhly,</hi> In all which having declared himſelfe, profeſſed his willingneſſe, and promiſed his indeavours by the help of God; the Presbytery, or the Miniſters ſent from them, ſhall ſolemnly ſet him apart to the office and worke of the Miniſtery, laying their hands on him, with a ſhort Prayer or bleſſing, to this effect.</p>
+            <q>THankefully acknowledging the great mercy of God in ſending Ieſus Chriſt for the redemption of his peo<g ref="char:EOLhyphen"/>ple, and for his Aſcention to the right hand of Gd the Fa<g ref="char:EOLhyphen"/>ther, and there powring out his Spirit, and giving gifts to Men, Apoſtles, Evangeliſts, Prophets, Paſtors, and Teachers for the gathering and building up of his Church, and for fit<g ref="char:EOLhyphen"/>ting and inclining this man to this great Worke, to beſeech him to fill him with his holy Spirit, who in his name we<note n="*" place="margin">Here let them im<g ref="char:EOLhyphen"/>poſe their hands upon his head.</note>ſet apart to this holy Service, to fulfill the work of his Miniſtery in all things, that he may both ſave himſelfe and the people committed to his charge.</q>
+            <pb n="5" facs="tcp:132771:4"/>
+            <!-- PDF PAGE 123 -->
+            <p n="8">
+               <hi>Eightly,</hi> This, or the like Form of Prayer, or bleſſing, being ended, let the Miniſter who preached, briefly exhort him to conſi<g ref="char:EOLhyphen"/>der the greatneſſe of his Office and Worke, the danger of negli<g ref="char:EOLhyphen"/>gence, both to himſelf and his people, the bleſſing which will ac<g ref="char:EOLhyphen"/>company his faithfulneſſe in this life, and that to come; with all let him exhort and charge the people in the Name of God, wil<g ref="char:EOLhyphen"/>lingly to receive and acknowledge him as the Miniſter of Chriſt, and to maintaine, incourage, and aſſiſt him in all the parts of his Office. And ſo by Prayer commending both him and his Flock to the grace of God, after the ſinging of a Pſalme, let the Aſſembly be diſmiſſed with a bleſſing.</p>
+            <p n="9">
+               <hi>Ninthly,</hi> Let ſuch as are choſen or appointed for the Ser<g ref="char:EOLhyphen"/>vice of the Army, or Navy, or Colledges, or other Charge, be Or<g ref="char:EOLhyphen"/>dained as aboveſaid, in ſuch Church as the Claſſicall Presbytery to which they ſhall addreſſe themſelves, ſhall think fit; and ſuch Al<g ref="char:EOLhyphen"/>terations made by the Miniſter that Ordaineth, from the Exhor<g ref="char:EOLhyphen"/>tation laſt before preſcribed, as the circumſtance of place and per<g ref="char:EOLhyphen"/>ſon ſhall require.</p>
+            <p>And be it further Ordained by the ſaid Lords and Commons, and by the authority aforeſaid, That every perſon formerly Or<g ref="char:EOLhyphen"/>dained a Presbyter, according to the forme of Ordination, which hath been held in the Church of <hi>England,</hi> and is to be removed to another Charge, do bring the Presbytery where he is to be placed, a Teſtimoniall of his Ordination, and of his abilities and converſation, whereupon his fitneſſe for that place where he is to be removed, ſhall be tryed by his preaching there, and (if it ſhall be judged neceſſary) by a further examination, and ſo, without any new <hi>Ordination,</hi> he ſhall be admitted, if he be ap<g ref="char:EOLhyphen"/>pointed as fit for that place: And if any perſon Ordained Mini<g ref="char:EOLhyphen"/>ſter in <hi>Scotland,</hi> or in any other Reformed Church, be deſigned to a Congregation in <hi>England,</hi> he is to bring from that Church to the Presbytery where he is to be placed, a ſufficient teſtimoniall of his Ordination, of his life and converſation while he lived with them, and of the cauſes of his removall; and to undergoe ſuch a Triall of his fitneſſe and ſufficiency; and to have the ſame courſe held with him in other particulars, as is ſet down in the foregoing Rule and Proviſion touching the Examination and Admiſſion of perſons formerly Ordained in <hi>England.</hi>
+            </p>
+            <p>And it is further Ordained, That Records be carefully kept by
+<pb n="6" facs="tcp:132771:5"/>
+               <!-- PDF PAGE 124 -->the Regiſter, to be nominated by the Presbytery, of the names of the perſons Ordained, with their teſtimonial of the time and place of their Ordination, and of the Miniſters who did ordain them, and of the Charge to which they are appointed; and that no mo<g ref="char:EOLhyphen"/>ney or gift, of what kinde ſoever, ſhall be received from the perſon to be Ordained, or from any on his behalfe, for Ordination, or ought elſe belonging to it, by the Presbytery or any of them, or any appertaining to any of them, upon what pretence ſoever, ex<g ref="char:EOLhyphen"/>cept to the Regiſter, for the entry, Inſtruments and Teſtimonials of his Ordination, which ſhall not exceed the ſum of ten ſhillings for each perſon Ordained.</p>
+            <p>And it is yet further Ordained by the Authority aforeſaid, that all perſons who ſhall be Ordained Presbyters, according to this Directory, ſhall be for ever reputed and taken to all intents and purpoſes, for lawfull, and ſufficiently authorized Miniſters of the Church of <hi>England,</hi> and as capable of any Miniſteriall imploy<g ref="char:EOLhyphen"/>ment in the Church, with the rights and profits belonging there<g ref="char:EOLhyphen"/>unto, as any other Presbyters whatſoever, already ordained, or hereafter to be Ordained; And that all Presbyters, who are here<g ref="char:EOLhyphen"/>by appointed and authorized to ordaine, and ſhall (according to this preſent Directory,) ordaine any Presbyters are hereby decla<g ref="char:EOLhyphen"/>red, to performe an acceptable ſervice to this Church and King<g ref="char:EOLhyphen"/>dome, and ſhall have the protection of both Houſes of Parliament for their indempnity.</p>
+            <p>Provided that this Ordinance ſhall ſtand in force for twelve Moneths and no longer: Any thing in this Ordinance contained to the contrary in any wiſe notwithſtanding.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="resolutions">
+            <pb facs="tcp:132771:5"/>
+            <!-- PDF PAGE 124 -->
+            <head>Die Veneris 20. Febr. 1645.</head>
+            <div type="resolution">
+               <head>Reſolved by the Lords and Commons in Parliament aſſembled.</head>
+               <p>THat there be forthwith a Choice made of Elders thorowout the King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> and Dominion of <hi>Wales</hi> in the reſpective Pariſh Churches and Chappels, according to ſuch Directions as have already paſſed both Houſes, bearing date the 19. of Auguſt 1645. and ſince that time: And all Claſſes and Parochiall Con<g ref="char:EOLhyphen"/>gregations reſpectively are hereby autho<g ref="char:EOLhyphen"/>rized and required forthwith effectually to proceed therein accordingly.</p>
+            </div>
+            <div type="resolution">
+               <head>Reſolved, &amp;c.</head>
+               <p>THat notice of the Election of Paro<g ref="char:EOLhyphen"/>chiall and Congregationall Elders,
+<pb facs="tcp:132771:6"/>
+                  <!-- PDF PAGE 125 -->and of the time when it ſhall be, be given by the Miniſter in the publike Aſſembly the next Lords Day but one before: And that on that ſaid Lords Day a Sermon be preached preparatory to that weighty bu<g ref="char:EOLhyphen"/>ſineſſe.</p>
+            </div>
+            <div type="resolution">
+               <head>Reſolved, &amp;c.</head>
+               <p>THat ſuch Election ſhall be made by the Congregation, or the major part of them then aſſembled, being ſuch as have taken the Nationall Covenant, and are not Perſons under age, nor Servants that have no Families.</p>
+            </div>
+            <div type="resolution">
+               <head>Reſolved, &amp;c.</head>
+               <p>THat theſe three Votes be forthwith communicated to the Lord Mayor, and immediatly put in due execution.</p>
+               <closer>
+                  <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="resolutions">
+            <pb facs="tcp:132771:6"/>
+            <!-- PDF PAGE 125 -->
+            <head>Die Jovis 26. Febr. 1645.</head>
+            <div type="resolution">
+               <head>Reſolved by the Lords and Commons in Parliament aſſembled.</head>
+               <p>THat the Tryers of Elections of El<g ref="char:EOLhyphen"/>ders ſhall have power to heare and determine all Exceptions brought unto them concerning undue Elections, as well as to receive them; And alſo to call before them all perſons Elected to be Elders, (and accepting ſuch Election) againſt whom any Exceptions ſhall be brought in; And to ſend for ſuch Witneſſes as ſhall be nomina<g ref="char:EOLhyphen"/>ted to them, by ſuch perſons as ſhall bring in the ſaid Exceptions; And ſhall have power to examine upon Oath, both the perſons bringing in ſuch Exceptions, and the ſaid Witneſſes, concerning any undue proceedings in the manner of the ſaid E<g ref="char:EOLhyphen"/>lection,
+<pb facs="tcp:132771:7" rendition="simple:additions"/>
+                  <!-- PDF PAGE 126 -->and concerning all matters of Igno<g ref="char:EOLhyphen"/>rance and Scandall, objected againſt the perſon elected, and expreſſed in any Ordi<g ref="char:EOLhyphen"/>nance of Parliament, to bee a ſufficient cauſe of Suſpention from the Sacrament of the Lords Supper, and of which any Elderſhip by Ordinance of Parliament, hath cognizance and juriſdiction; And that ſhall be prooved to have been committed within one whole year before the Excep<g ref="char:EOLhyphen"/>tions exhibited; And that the perſon againſt whom the Exceptions are taken, ſhall have the like liberty to produce Witneſſes to be examined in like manner on his behalf.</p>
+            </div>
+            <div type="resolution">
+               <head>Reſolved, &amp;c.</head>
+               <p>THat the Triers ſhall have power to examine whether the Elders that are to be choſen, be ſo qualified as is expreſſed in the Ordinance which hath paſſed both Houſes.</p>
+               <closer>
+                  <signed>Joh. Brown Cler. Parliamentorum.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
